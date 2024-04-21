@@ -1,7 +1,4 @@
-# GraFT: Gradual Fusion Transformer for Multimodal Re-Identification
-
-
-arXiv (coming soon)
+# [GraFT: Gradual Fusion Transformer for Multimodal Re-Identification](https://arxiv.org/abs/2310.16856)
 
 Official PyTorch implementation and pre-trained models for GraFT: Gradual Fusion Transformer for Multimodal Re-Identification 
 
